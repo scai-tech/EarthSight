@@ -1,0 +1,65 @@
+[
+    {
+      "name": "planet gs: Seattle",
+      "location": [47.6062, -122.3321]
+    },
+    {
+      "name": "planet gs: San Francisco",
+      "location": [37.7749, -122.4194]
+    },
+    {
+      "name": "planet gs: Mexico City",
+      "location": [19.4326, -99.1332]
+    },
+    {
+      "name": "planet gs: Chicago",
+      "location": [41.8781, -87.6298]
+    },
+    {
+      "name": "planet gs: Toronto",
+      "location": [43.6532, -79.3832]
+    },
+    {
+      "name": "planet gs: Stockholm",
+      "location": [59.3293, 18.0686]
+    },
+    {
+      "name": "planet gs: Berlin",
+      "location": [52.5200, 13.4050]
+    },
+    {
+      "name": "planet gs: Moscow",
+      "location": [55.7558, 37.6173]
+    },
+    {
+      "name": "planet gs: Cape Town",
+      "location": [-33.9249, 18.4241]
+    },
+    {
+      "name": "planet gs: Sydney",
+      "location": [-33.8688, 151.2093]
+    },
+    {
+      "name": "planet gs: Santiago",
+      "location": [-33.4489, -70.6693]
+    },
+    {
+      "name": "planet gs: Tokyo",
+      "location": [35.6762, 139.6503]
+    },
+    {
+      "name": "planet gs: London",
+      "location": [51.5074, -0.1278]
+    },
+    {
+      "name": "planet gs: New York",
+      "location": [40.7128, -74.0060]
+    },
+    {
+      "name": "planet gs: Vladivostok",
+      "location": [43.1332, 131.9113]
+    }, {
+      "name": "planet gs: Auckland",
+      "location": [-36.8509, 174.7645]
+    }
+  ]
