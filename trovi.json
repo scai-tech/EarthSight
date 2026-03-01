@@ -1,0 +1,39 @@
+{
+  "title": "EarthSight: A Distributed Framework for Low-Latency Satellite Intelligence",
+  "short_description": "Reproducibility artifact for EarthSight (MLSys 2026), a distributed runtime for satellite image intelligence.",
+  "description": "Simulation framework for EarthSight, a distributed runtime system that reduces satellite imagery delivery latency by performing on-board ML inference coordinated with ground-station scheduling. Reproduces average compute time per image by 1.9x and lowers 90th percentile end-to-end latency.",
+  "visibility": "public",
+  "tags": [
+    "mlsys2026",
+    "distributed-systems",
+    "satellite-computing",
+    "simulation"
+  ],
+  "authors": [
+    {
+      "full_name": "Ansel Kaplan Erol",
+      "affiliation": "Georgia Institute of Technology",
+      "email": "aerol3@gatech.edu"
+    },
+    {
+      "full_name": "Seungjun Lee",
+      "affiliation": "KAIST",
+      "email": "nihilnomen@kaist.ac.kr"
+    },
+    {
+      "full_name": "Divya Mahajan",
+      "affiliation": "Georgia Institute of Technology",
+      "email": "divya.mahajan@gatech.edu"
+    }
+  ],
+  "environment": {
+    "type": "chameleon",
+    "hardware_requirements": {
+      "description": "Hard requirement: 256 GB RAM for simulation jobs. Can be run on a single machine serially or on a SLURM-managed HPC cluster for parallel execution."
+    },
+    "software_requirements": {
+      "python": "3.9 or 3.13",
+      "os": "Linux"
+    }
+  }
+}
