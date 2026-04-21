@@ -1,0 +1,13 @@
+=== Compute Time Summary (Jetson) seconds per image ===
+                      mean   std  median   min   max  speedup_vs_serval
+mode                                                                   
+earthsight_multitask  1.33  0.78    1.13  0.43  3.33               2.01
+earthsight_stl        1.74  1.26    1.84  0.54  5.29               1.53
+serval                2.67  1.60    2.62  0.87  7.40               1.00
+
+=== Compute Time Summary (TPU) seconds per image ===
+                      mean   std  median   min    max  speedup_vs_serval
+mode                                                                    
+earthsight_multitask  4.14  2.43    3.54  1.35  10.38               2.01
+earthsight_stl        5.44  3.93    5.73  1.67  16.51               1.53
+serval                8.34  5.00    8.18  2.71  23.10               1.00
